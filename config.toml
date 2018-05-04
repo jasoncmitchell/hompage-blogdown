@@ -27,7 +27,7 @@ defaultContentLanguageInSubdir = false
   organization = "Loyola Marymount University"
   organization_url = "http://library.lmu.edu/"
 #  avatar = "bicycle.png"
-  avatar = "portrait.jpb"
+  avatar = "portrait.jpg"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
