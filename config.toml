@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "John R Little"
+title = "Jason C. Mitchell"
 # copyright = "&copy; 2016 Your Name"
 theme = "hugo-academic"
 enableEmoji = true
@@ -22,18 +22,12 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "John R Little"
-  role = "Data Janitor"
-  organization = "Duke University Libraries"
-  organization_url = "http://library.duke.edu/data/"
+  name = "Jason C. Mitchell"
+  role = "Consistently missing the MARC"
+  organization = "Loyola Marymount University"
+  organization_url = "http://library.lmu.edu/"
 #  avatar = "bicycle.png"
-  avatar = "data-science-vector-fromPixabay.svg"
-#  email = "John.Little@Duke.edu"
-#  address = "Data & Visualization Studio, the /Edge, Duke University Libraries"
-#  office_hours = "Wednesday 1PM to 3PM or make an appointment: http://v.gd/littleconsult"
-#  phone = "http://v.gd/littleconsult"
-#  skype = "echo123"
-#  telegram = "send me a t'gram"
+  avatar = "portrait.jpb"
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
@@ -100,12 +94,12 @@ defaultContentLanguageInSubdir = false
   #   For multi-lingual sites, copy this block to each language section at the end of this file.
   publication_types = [
   'Uncategorized',  # 0
-	'Data Analysis',  # 1
+	'E-book Usage and Management',  # 1
 	'Data Cleaning',  # 2
 	'Data Sources',  # 3
 	'GIS Mapping',  # 4
 	'Research Data Management',  # 5
-  'Visualization',  # 6
+  	'Visualization',  # 6
 	'DogTown Traffic' #7
   ]
 
@@ -133,24 +127,19 @@ defaultContentLanguageInSubdir = false
     link = "#contact"
     
   [[params.social]]
-    icon = "calendar"
-    icon_pack = "fa"
-    link = "//duke.libcal.com/appointment/2695"
-    
-  [[params.social]]
     icon = "phone"
     icon_pack = "fa"
-    link = "//library.duke.edu/about/directory/staff/1441"
+    link = "https://library.lmu.edu/staffdirectory/#M"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/libjohn"
+    link = "//github.com/jasoncmitchell"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fa"
-#    link = "//twitter.com/john_little"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/comparetheo"
 
 #  [[params.social]]
 #    icon = "google-scholar"
@@ -182,22 +171,16 @@ defaultContentLanguageInSubdir = false
   name = "Workshops"
   url = "#workshops_selected"
   weight = 2
-
-
-[[menu.main]]
-  name = "Presentations"
-  url = "#presentations"
-  weight = 3
   
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Taxonomies.
 [taxonomies]
