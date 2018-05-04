@@ -17,6 +17,11 @@ publication_types = ["1"]
 # titles
 title = "E-book Bootcamp"
 
+# Publication name and optional abbreviated version.
+publication = ""
+publication_short = ""
+date = "2018-04-06"
+
 # Abstract and optional shortened version.
 abstract = "A gentle introduction to the basics of E-book usage, selection, and troubleshooting. We attempted to cover a lot of information in a relatively short period of time, and hoe that this is the first of what will continue to be an ongoing and productive interdepartmental conversation as we all navigate the rapidly changing universe of e-books."
 abstract_short = "A gentle introduction to the basics of E-book usage, selection, and troubleshooting."
