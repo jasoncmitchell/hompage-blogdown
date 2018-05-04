@@ -12,32 +12,26 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Data Science",
-    "Data: Cleaning, Engineering, Analysis",
-    "Reproducibility",
-    "Tidyverse / R / RStudio / git"
+    "Libray Sciences",
+    "Metadata Management",
+    "HTML / Python / Ruby "
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MSLS Library & Information Science"
-  institution = "UNC Chapel Hill"
-  year = 1992
+  course = "MA Interdisciplinary & Comparative Studies"
+  institution = "Claremont School of Theology"
+  year = 2015
 
 [[education.courses]]
-  course = "BA Sociology"
-  institution = "UNC Greensboro"
-  year = 1990
-
-[[education.courses]]
-  course = "Ciphers of Sybaritic Sophistry"
-  institution = "Novel School of Fiction"
-  year = 1900
+  course = "BA Religion"
+  institution = "Mount Olive College"
+  year = 2013
  
 +++
 
 # Biography
 
-John is a Data Analysis Librarian/Consultant working in the [Data & Visualization Services Department](//library.duke.edu/data).  I help Duke University students and researchers navigate practical data science challenges.  To that end I provide a series of *workshops* on *R* and *OpenRefine*; offer walk-in and by-appointment consultations; and host the *R we having fun yet* learning series ([Rfun](//rfun.library.duke.edu/)). 
+Jason is the library assistant for electronic resources working in the [Acquisitions and Collection Development Department](//library.lmu.edu/) at Loyola Marymount University. 
 
-My [workshops](#publications_selected) and [presentations](#presentations) include twitter stream gathering, web scraping, data parsing, and data cleaning. Each workshop is designed as a hands-on experience where you can download  practice data, presentation slides, and workbook guides.  Recorded video streaming is often available. 
+Most of my work focuses on the maintance of all electronic resources (monographs, databases, steaming media). To that end, my [workshops](#publications) and [presentations](#presentations) are often designed as hands-on experiences where you can download practice data, presentation slides, and workbook guides so that you can learn at your own pace. Any coding provided here has been learned through on-the-job usage and is shared for the purpose of helping others with similar needs. Public projects shared on this site (without a login creditial) can be forked and used at other institutions without attribution.
