@@ -34,4 +34,4 @@ weight = 1
 
 Jason is the library assistant for electronic resources working in the [Acquisitions and Collection Development Department](//library.lmu.edu/) at Loyola Marymount University. 
 
-My work focuses on the maintance of all electronic resources (monographs, databases, and steaming media). To that end, any coding provided here has been learned through on-the-job usage and is shared for the purpose of helping others with similar needs. Public projects shared on this site (without a login creditial) can be forked and used at other institutions without attribution.
+My work focuses on the record load and maintance of all electronic resources (monographs, databases, and steaming media). To that end, any coding provided here has been learned through on-the-job usage and is shared for the purpose of helping others with similar needs. Public projects shared on this site (without a login creditial) can be forked and used at other institutions without attribution.
